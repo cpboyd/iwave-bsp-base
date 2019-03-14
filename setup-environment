@@ -204,7 +204,7 @@ your images, you need to read and accept the following...
 
 EOF
 
-    sleep 4
+    sleep 1
 
     more -d $CWD/sources/meta-freescale/EULA
     echo
